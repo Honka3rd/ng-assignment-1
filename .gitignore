@@ -1,7 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # exclude everything
-../assignment-1/*
+*/
+!.gitignore
  
 # compiled output
 /dist
